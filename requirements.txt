@@ -1,0 +1,6 @@
+langchain==0.1.17
+langchain_community==0.0.37
+PyPDF2==3.0.1
+python-decouple==3.8
+streamlit==1.33.0
+streamlit_extras==0.4.2
